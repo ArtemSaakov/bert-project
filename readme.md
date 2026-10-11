@@ -1,8 +1,3 @@
-::: IEEEkeywords
-Metadata Classification, Digital Curation, Transformer Models, BERT,
-Text Classification, Archival Metadata, Natural Language Processing
-:::
-
 # Introduction
 
 Metadata underpins discovery, provenance, and preservation in digital
